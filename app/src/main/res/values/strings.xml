@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App12</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1396601110650659</string>
+    <string name="hello_world">Bienvenido a FurgonApp</string>
+    <string name="title_activity_central">CentralActivity</string>
+
+</resources>
